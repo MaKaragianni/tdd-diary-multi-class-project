@@ -12,7 +12,7 @@ A Python project built using Test-Driven Development (TDD) to implement a multi-
 
 ## 🧱 Project Structure
 
-- lib/
+lib/
 - diary.py
 - diary_entry.py
 - todo_list.py
