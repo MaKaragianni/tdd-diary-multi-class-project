@@ -37,10 +37,12 @@ tests/
 
 ```bash
 pytest
+
 ⚙️ Setup
 python -m venv venv
 source venv/bin/activate
 pip install pytest
+
 ▶️ Example Usage
 from lib.diary import Diary
 from lib.diary_entry import DiaryEntry
